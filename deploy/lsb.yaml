@@ -1,6 +1,17 @@
 ---
-phase: phase_0
-build_url: 3
+phase: 0
+build_url: logstream-bits-2
+
 ---
-phase: phase_1
-build_url: 2
+phase: 1
+build_url: logstream-bits-2
+
+---
+phase: 2
+build_url: logstream-bits-1
+
+---
+phase: 3
+build_url: logstream-bits-1
+
+
